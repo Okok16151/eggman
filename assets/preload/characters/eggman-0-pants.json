@@ -2,61 +2,6 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "BF idle dance"
-		},
-		{
-			"offsets": [
-				5,
-				-6
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF NOTE LEFT0"
-		},
-		{
-			"offsets": [
-				-10,
-				-50
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "BF NOTE DOWN0"
-		},
-		{
-			"offsets": [
-				-29,
-				27
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "BF NOTE UP0"
-		},
-		{
-			"offsets": [
-				-48,
-				-7
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BF NOTE RIGHT0"
-		},
-		{
-			"offsets": [
 				7,
 				19
 			],
@@ -134,6 +79,39 @@
 		},
 		{
 			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"offsets": [
 				-10,
 				-16
 			],
@@ -167,55 +145,77 @@
 		},
 		{
 			"offsets": [
-				37,
-				11
+				130,
+				-51
 			],
 			"indices": [],
-			"fps": 24,
-			"anim": "firstDeath",
+			"fps": 14,
+			"anim": "idle",
 			"loop": false,
-			"name": "BF die"
+			"name": "eggman-no-pants idle"
 		},
 		{
 			"offsets": [
-				37,
-				5
+				180,
+				-83
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "deathLoop",
-			"loop": true,
-			"name": "BF Dead Loo"
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "eggman-no-pants right"
 		},
 		{
 			"offsets": [
-				37,
-				69
+				180,
+				-81
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "deathConfirm",
+			"anim": "singUP",
 			"loop": false,
-			"name": "BF Dead confir"
+			"name": "eggman-no-pants up"
+		},
+		{
+			"offsets": [
+				170,
+				-82
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "eggman-no-pants down"
+		},
+		{
+			"offsets": [
+				175,
+				-79
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "eggman-no-pants left"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/eggman-no-pants",
 	"position": [
-		0,
-		350
+		400,
+		40
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "eggman",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		235,
+		60,
+		69
 	],
 	"camera_position": [
-		0,
-		0
+		-470,
+		-130
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1.6
 }

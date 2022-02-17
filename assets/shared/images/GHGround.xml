@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GHGround.png"><SubTexture name="GHGround idle0000" x="0" y="0" width="473" height="255" frameX="0" frameY="0" frameWidth="473" frameHeight="255" />
+<SubTexture name="GHGround idle0001" x="473" y="0" width="473" height="255" frameX="0" frameY="0" frameWidth="473" frameHeight="255" />
+<SubTexture name="GHGround idle0002" x="0" y="255" width="473" height="255" frameX="0" frameY="0" frameWidth="473" frameHeight="255" />
+</TextureAtlas>

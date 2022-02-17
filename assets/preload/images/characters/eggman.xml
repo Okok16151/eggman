@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eggman.png">
+<SubTexture name="eggman idle0000" x="1060" y="339" width="261" height="324" frameX="-156" frameY="-199" frameWidth="590" frameHeight="585" />
+<SubTexture name="eggman idle0001" x="331" y="1055" width="285" height="309" frameX="-152" frameY="-216" frameWidth="590" frameHeight="585" />
+<SubTexture name="eggman idle0002" x="758" y="354" width="264" height="317" frameX="-157" frameY="-206" frameWidth="590" frameHeight="585" />
+<SubTexture name="eggman idle0003" x="1060" y="339" width="261" height="324" frameX="-156" frameY="-199" frameWidth="590" frameHeight="585" />
+<SubTexture name="eggman down0000" x="0" y="1055" width="331" height="322" frameX="-157" frameY="-153" frameWidth="590" frameHeight="585" />
+<SubTexture name="eggman down0001" x="1060" y="663" width="327" height="324" frameX="-163" frameY="-151" frameWidth="590" frameHeight="585" />
+<SubTexture name="eggman left0000" x="758" y="0" width="302" height="354" frameX="-147" frameY="-114" frameWidth="590" frameHeight="585" />
+<SubTexture name="eggman left0001" x="395" y="358" width="301" height="354" frameX="-152" frameY="-114" frameWidth="590" frameHeight="585" />
+<SubTexture name="eggman right0000" x="0" y="713" width="410" height="342" frameX="-83" frameY="-126" frameWidth="590" frameHeight="585" />
+<SubTexture name="eggman right0001" x="410" y="713" width="412" height="339" frameX="-89" frameY="-129" frameWidth="590" frameHeight="585" />
+<SubTexture name="eggman right0002" x="1060" y="0" width="412" height="339" frameX="-89" frameY="-129" frameWidth="590" frameHeight="585" />
+<SubTexture name="eggman up0000" x="0" y="358" width="395" height="355" frameX="-86" frameY="-160" frameWidth="590" frameHeight="585" />
+<SubTexture name="eggman up0001" x="0" y="0" width="379" height="358" frameX="-89" frameY="-157" frameWidth="590" frameHeight="585" />
+<SubTexture name="eggman up0002" x="379" y="0" width="379" height="358" frameX="-89" frameY="-157" frameWidth="590" frameHeight="585" />
+</TextureAtlas>

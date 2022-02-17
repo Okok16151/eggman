@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eggman-no-pants.png">
+<SubTexture name="eggman-no-pants idle0000" x="1148" y="382" width="278" height="381" frameX="-126" frameY="-164" frameWidth="597" frameHeight="597" />
+<SubTexture name="eggman-no-pants idle0001" x="846" y="399" width="269" height="379" frameX="-140" frameY="-166" frameWidth="597" frameHeight="597" />
+<SubTexture name="eggman-no-pants idle0002" x="1206" y="817" width="286" height="370" frameX="-143" frameY="-175" frameWidth="597" frameHeight="597" />
+<SubTexture name="eggman-no-pants idle0003" x="1148" y="382" width="278" height="381" frameX="-126" frameY="-164" frameWidth="597" frameHeight="597" />
+<SubTexture name="eggman-no-pants down0000" x="437" y="817" width="326" height="375" frameX="-174" frameY="-150" frameWidth="597" frameHeight="597" />
+<SubTexture name="eggman-no-pants down0001" x="0" y="1194" width="330" height="370" frameX="-187" frameY="-155" frameWidth="597" frameHeight="597" />
+<SubTexture name="eggman-no-pants down0002" x="330" y="1194" width="340" height="363" frameX="-188" frameY="-162" frameWidth="597" frameHeight="597" />
+<SubTexture name="eggman-no-pants right0000" x="763" y="817" width="443" height="375" frameX="-58" frameY="-150" frameWidth="597" frameHeight="597" />
+<SubTexture name="eggman-no-pants right0001" x="0" y="817" width="437" height="377" frameX="-58" frameY="-148" frameWidth="597" frameHeight="597" />
+<SubTexture name="eggman-no-pants right0002" x="1148" y="0" width="429" height="382" frameX="-60" frameY="-143" frameWidth="597" frameHeight="597" />
+<SubTexture name="eggman-no-pants up0000" x="0" y="411" width="415" height="406" frameX="-79" frameY="-119" frameWidth="597" frameHeight="597" />
+<SubTexture name="eggman-no-pants up0001" x="0" y="0" width="423" height="411" frameX="-71" frameY="-114" frameWidth="597" frameHeight="597" />
+<SubTexture name="eggman-no-pants up0002" x="423" y="0" width="423" height="410" frameX="-72" frameY="-115" frameWidth="597" frameHeight="597" />
+<SubTexture name="eggman-no-pants left0000" x="846" y="0" width="302" height="399" frameX="-131" frameY="-126" frameWidth="597" frameHeight="597" />
+<SubTexture name="eggman-no-pants left0001" x="415" y="411" width="306" height="402" frameX="-127" frameY="-123" frameWidth="597" frameHeight="597" />
+</TextureAtlas>
